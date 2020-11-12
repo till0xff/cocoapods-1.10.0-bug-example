@@ -18,5 +18,5 @@ TODO: Add long description of the pod here.
 
   s.source_files = 'Bug/Classes/**/*.swift'
   
-   s.resources = [ 'Bug/**/Bug.Suffix.xib' ]
+   s.resources = [ 'Bug/**/*.xib' ]
 end

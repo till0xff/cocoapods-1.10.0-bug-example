@@ -195,11 +195,11 @@
 			);
 			inputPaths = (
 				"${PODS_ROOT}/Target Support Files/Pods-Bug_Example/Pods-Bug_Example-resources.sh",
-				"${BUILT_PRODUCTS_DIR}/Bug/Bug.framework/Bug.nib",
+				"${BUILT_PRODUCTS_DIR}/Bug/Bug.framework/View.nib",
 			);
 			name = "[CP] Copy Pods Resources";
 			outputPaths = (
-				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/Bug.nib",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/View.nib",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;

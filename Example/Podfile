@@ -1,0 +1,5 @@
+use_frameworks!
+
+target 'Bug_Example' do
+  pod 'Bug', :path => '../'
+end

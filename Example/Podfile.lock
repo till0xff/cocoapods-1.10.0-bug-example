@@ -1,0 +1,16 @@
+PODS:
+  - Bug (0.1.0)
+
+DEPENDENCIES:
+  - Bug (from `../`)
+
+EXTERNAL SOURCES:
+  Bug:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Bug: d5a31b8b9930107b8ecab374306ebea0722778d9
+
+PODFILE CHECKSUM: dcac5a18a7af5f8f143a551c2b43f9853885cdbf
+
+COCOAPODS: 1.10.0
